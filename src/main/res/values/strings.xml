@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FoodApplication</string>
+    <string name="profile">Profile</string>
+    <string name="personal">Personal Info</string>
+    <string name="name">Full Name : Judes Denislas Coonghe</string>
+    <string name="hometown">Home Town : Colombo</string>
+    <string name="occupation">Occupation : Manager</string>
+    <string name="contact">Contact Info</string>
+    <string name="btn1">Next</string>
+    <string name="login">Login</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="names">Full Name</string>
+    <string name="btn3">Login</string>
+    <string name="phone">Mobile Number : 0773666895</string>
+    <string name="emails">Email address : jdcoonghe03@gmail.com</string>
+    <string name="btn4">Done</string>
+    <string name="location">Malabe Town, Colombo</string>
+    <string name="chicken">Chicken Burger Promo Pack</string>
+    <string name="chicken1">A chicken burger is a popular type
+        of sandwich consisting of a cooked chicken patty,
+        typically served inside a sliced bun. The chicken patty
+        can be prepared in various ways, such as grilled, fried,
+        or baked, and may be made from ground chicken, whole chicken breast,
+        or chicken thighs. Here’s a more detailed explanation of the components
+        and variations of a chicken burger:</string>
+    <string name="btn5">Add to Chart</string>
+    <string name="order">Order Details</string>
+    <string name="btn6">Done</string>
+    <string name="btn7">Submit</string>
+    <string name="btn8">Skip</string>
+</resources>
